@@ -1,0 +1,8 @@
+prefix=/home/book/ts1_ws/devel
+
+Name: serial
+Description: Description of serial
+Version: 1.2.1
+Cflags: -I/home/book/ts1_ws/src/serial-master/include
+Libs: -L/home/book/ts1_ws/devel/lib -lserial
+Requires: 

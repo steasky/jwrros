@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/serial-test.dir/unix_serial_tests.cc.o  -o /home/book/ts1_ws/devel/lib/serial/serial-test  -L/home/book/ts1_ws/build/gtest -rdynamic ../../gtest/libgtest.so /home/book/ts1_ws/devel/lib/libserial.so -lutil -lpthread -lrt -lpthread -Wl,-rpath,/home/book/ts1_ws/build/gtest:/home/book/ts1_ws/devel/lib 

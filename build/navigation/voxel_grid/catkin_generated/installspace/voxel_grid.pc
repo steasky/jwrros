@@ -1,0 +1,8 @@
+prefix=/home/book/ts1_ws/install
+
+Name: voxel_grid
+Description: Description of voxel_grid
+Version: 1.12.15
+Cflags: -I/home/book/ts1_ws/install/include
+Libs: -L/home/book/ts1_ws/install/lib -lvoxel_grid
+Requires: roscpp
